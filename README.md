@@ -1,4 +1,4 @@
-Cryptocurrency tracker Version 1
+Cryptocurrency Tracker Version 1
 
 This project was bootstrapped with [Create React App]
 
