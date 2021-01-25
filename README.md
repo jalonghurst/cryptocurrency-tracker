@@ -1,3 +1,5 @@
+Cryptocurrency tracker Version 1
+
 This project was bootstrapped with [Create React App]
 
 Lists all API supported crypocurrency coins price, market cap, volume, and market related data.
